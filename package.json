@@ -1,0 +1,26 @@
+{
+    "name": "clase-de-equivalencia-tarea-11",
+    "version": "1.0.0",
+    "main": "prestamo.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "Jaqueline Godoy",
+    "license": "ISC",
+    "description": "prestamo-aprobado",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JGODOYM12/clase-de-equivalencia-tarea-11.git"
+    },
+    "keywords": [
+      "prestamo"
+    ],
+    "bugs": {
+      "url": "https://github.com/JGODOYM12/clase-de-equivalencia-tarea-11/issues"
+    },
+    "homepage": "https://github.com/JGODOYM12/clase-de-equivalencia-tarea-11#readme",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
+  
